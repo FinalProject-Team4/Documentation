@@ -4,6 +4,16 @@
 
 
 
+### Front Side
+
+- [Flow Chart](https://github.com/FinalProject-Team4/Documentation/blob/master/FlowChart.md)
+
+***Flow Chart***
+
+[miro](https://miro.com/app/board/o9J_kurO8uI=/zz) 사용
+
+
+
 ### Server Side
 
 - [daangnMarket_ERD.pdf](https://drive.google.com/file/d/1TvEjF-br9pVrfvFrRG61F4PXCGU7BbIk/view?usp=sharing)
