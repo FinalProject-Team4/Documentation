@@ -8,11 +8,11 @@
 
 - [Flow Chart](https://github.com/FinalProject-Team4/Documentation/blob/master/FlowChart.md)
 
-***Flow Chart***
+  > Using [miro](https://miro.com/app/board/o9J_kurO8uI=/zz)
 
-[miro](https://miro.com/app/board/o9J_kurO8uI=/zz) 사용
+- [Wireframe & MVP](https://github.com/FinalProject-Team4/Documentation/blob/master/Wireframe.pdf)
 
-
+  > Using Adobe XD
 
 ### Server Side
 
