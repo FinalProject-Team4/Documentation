@@ -13,22 +13,24 @@
 - [Wireframe & MVP](https://github.com/FinalProject-Team4/Documentation/blob/master/Wireframe.pdf)
 
   > Using Adobe XD
+  
+  
 
 ### Server Side
 
-- [daangnMarket_ERD.pdf](https://drive.google.com/file/d/1TvEjF-br9pVrfvFrRG61F4PXCGU7BbIk/view?usp=sharing)
+- ***ER diagram*** ([daangnMarket_ERD.pdf](https://drive.google.com/file/d/1TvEjF-br9pVrfvFrRG61F4PXCGU7BbIk/view?usp=sharing))
 
-***ER diagram***
+>  diagrams.net(draw.io) 사용
+>
+> 데이터 모델링 (ORM)
 
-diagrams.net(draw.io) 사용
+- ***API 명세*** (Not Yet)
 
-데이터 모델링 (ORM)
+> swagger 이용 예정 or Postman
 
-- API
+- ***Deploy Diagram*** ([daangn_deploy.png](https://drive.google.com/open?id=1Sta93ziyRGgQBiWxRz_v1loXBzyekdnT))
 
-***API 작성***
-
-swagger 이용
+> diagrams.net(draw.io), cloudcraft
 
 
 
