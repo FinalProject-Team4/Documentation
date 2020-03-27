@@ -24,9 +24,9 @@
 >
 > 데이터 모델링 (ORM)
 
-- ***API 명세*** (Not Yet)
+- ***API 명세*** (http://daangn.shinjam.xyz/docs)
 
-> swagger 이용 예정 or Postman
+> drf-yasg 사용
 
 - ***Deploy Diagram*** ([daangn_deploy.png](https://drive.google.com/open?id=1Sta93ziyRGgQBiWxRz_v1loXBzyekdnT))
 
@@ -43,11 +43,3 @@
 - handout.pdf
 
 기획 문서 작성 가이드 참고 문서
-
-##### API
-
-- [[Swagger] RESTful API 문서 만들기 feat. YAML](https://sanghaklee.tistory.com/50)
-- [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-- [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/#)
-- [RESTful API 특징과 작성 시 지켜야 할 규칙](https://otrodevym.tistory.com/entry/RESTful-API-작성-시-지켜야-할-규칙)
-- [RESTful API 작성 팁](https://im-nc2u.tistory.com/entry/RESTful-API-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80)
